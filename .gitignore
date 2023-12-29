@@ -1,6 +1,10 @@
 .project
 .classpath
 .settings/
+/.settings/
+/.settings
+/.settings/*
+*/.settings/*
 /bin
 /bin/*
 /target/
